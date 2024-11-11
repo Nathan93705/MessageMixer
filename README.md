@@ -15,7 +15,7 @@ The Config Has 3 keys
 - "default_messages"
   - **Message[]** - An Array of objects telling what motd's to show and for how long
 
-```json
+```
 {
   //ID of MOTD in motds.json
   "id": "example",
@@ -28,7 +28,7 @@ The Config Has 3 keys
 
 Default MOTD Config:
 
-```json
+```
 {
   //The MOTD ID
   "default": {
