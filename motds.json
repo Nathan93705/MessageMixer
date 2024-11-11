@@ -1,0 +1,23 @@
+{
+    "default": {
+        "messages": [
+            "SerenityJS"
+        ],
+        "random": false,
+        "rotation_interval": 1000
+    },
+    "example": {
+        "messages": [
+            "h",
+            "he",
+            "hel",
+            "hell",
+            "hello",
+            "hell",
+            "hel",
+            "he"
+        ],
+        "random": false,
+        "rotation_interval": 500
+    }
+}

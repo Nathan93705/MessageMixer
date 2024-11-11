@@ -1,0 +1,14 @@
+{
+    "enabled": true,
+    "enable_formatting": true,
+    "default_messages": [
+        {
+            "id": "example",
+            "length": 5000
+        },
+        {
+            "id": "gay",
+            "length": 5000
+        }
+    ]
+}
